@@ -9,7 +9,7 @@ Analyze and reduce return rates in an e-commerce setting using machine learning 
 - `scripts/` – Python code for data processing and modeling
 - `outputs/` – Model predictions and results
 - `dashboard/` – Power BI dashboard file (to be created)
-- `notebooks/` – Optional: EDA and development notebooks
+
 
 ## Steps
 
